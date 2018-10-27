@@ -2,7 +2,7 @@ package com.osoky.resttutorial.rest_tutorial.models;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
-
+// Entity test di mongo db
 public class Pets {
     @Id
     public ObjectId _id;
